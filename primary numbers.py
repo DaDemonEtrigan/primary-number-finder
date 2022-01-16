@@ -1,3 +1,4 @@
+# primary number finder
 # dev : Captain_Etrigan
 
 num = int(input("Enter a number: "))
