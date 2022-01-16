@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-#DEV : CodeHunter
+# dev : Captain_Etrigan
+
 num = int(input("Enter a number: "))
 tag = False
 
