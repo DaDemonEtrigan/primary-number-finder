@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 # dev : Captain_Etrigan
 
 num = int(input("Enter a number: "))
